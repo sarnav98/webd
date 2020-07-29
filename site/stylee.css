@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+	color: black;
+	background-color: purple;
+	width: 150px;
+}
+
+h2 {
+	text-align: center;
+	color:orange;
+	background-color: green;
+	width: 150px;
+}
+
+p {
+	background-color: green;
+	font-weight: bold
+	text-decoration-color: yellow;
+
+}
+
